@@ -12,7 +12,8 @@ def monopoly_with_second_tier
 	  :rent_in_dollars => {
 	    :one_piece_owned => 25,
 	    :two_pices_owned => 50,
-	    :three_pices_owned => 
+	    :three_pices_owned => 100,
+	    :four_pices_owned => 200
 	  }
 	  
 	}
